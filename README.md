@@ -1,7 +1,7 @@
 # pearlminer releases
 
-Binary releases of **pearlminer**, a dev-fee-free Pearl (PRL) pearlhash GPU miner for NVIDIA
-RTX 30/40 series cards. This repository holds only release assets.
+Binary releases of **pearlminer**, a Pearlhash (PRL) GPU miner for NVIDIA
+RTX 30/40 series cards. 1% dev fee.
 
 ## HiveOS
 
